@@ -1,0 +1,16 @@
+{
+  "name": "automated-api-test---cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.0.1",
+    "cypress-plugin-api": "^2.4.1"
+  }
+}
